@@ -15,3 +15,9 @@
 - Collections
 - Exception Handling
 - Object Serialization
+- Model-View-Controller(MVC) Architecture
+- Polymorphism
+- Inheritance
+- Encapsulation
+- Abstraction
+- Etc
